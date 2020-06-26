@@ -1,0 +1,5 @@
+jekyll build
+
+jekyll serve
+
+http://ragupappu.com/2015/04/22/setup-website-using-github-pages-and-jekyll/
